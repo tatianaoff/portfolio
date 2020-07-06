@@ -1,0 +1,221 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 8;
+	--web-view-id: Web_1920__8;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__8;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__8 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 8;
+	--web-view-id: Web_1920__8;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectngulo_5 {
+	fill: rgba(125,206,206,1);
+}
+.Rectngulo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 981px;
+	left: 0px;
+	top: 99px;
+}
+#Rectngulo_4 {
+	fill: rgba(125,206,206,1);
+}
+.Rectngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#foto_background {
+	opacity: 0.098;
+	position: absolute;
+	width: 1920px;
+	height: 1108px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Enmascarar_grupo_1 {
+	position: absolute;
+	width: 1920px;
+	height: 1108px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#UXUI_designer__ {
+	left: 107px;
+	top: 375px;
+	position: absolute;
+	overflow: hidden;
+	width: 839px;
+	height: 119px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(37,65,79,1);
+	text-transform: uppercase;
+}
+#Im_passionate_about_design_wit {
+	left: 107px;
+	top: 545px;
+	position: absolute;
+	overflow: hidden;
+	width: 988px;
+	height: 200px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(37,65,79,1);
+	text-transform: uppercase;
+}
+#Tatiana_Offenheim {
+	left: 133px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 289px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(37,65,79,1);
+	text-transform: uppercase;
+}
+#Projects {
+	left: 1294px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#About {
+	left: 1480px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	text-transform: uppercase;
+}
+#Contact_ {
+	left: 1634px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(37,65,79,1);
+	text-transform: uppercase;
+}
+#Grupo_2 {
+	position: absolute;
+	width: 87.784px;
+	height: 70.789px;
+	left: 133.146px;
+	top: 811.392px;
+	overflow: visible;
+}
+#Trazado_1 {
+	fill: transparent;
+	stroke: rgba(37,65,79,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_1 {
+	overflow: visible;
+	position: absolute;
+	width: 72.169px;
+	height: 49.964px;
+	left: 9.375px;
+	top: 6.245px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_3 {
+	fill: transparent;
+	stroke: rgba(37,65,79,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_3 {
+	overflow: visible;
+	position: absolute;
+	width: 49.202px;
+	height: 37.17px;
+	left: 20.969px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_2 {
+	fill: transparent;
+	stroke: rgba(37,65,79,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trazado_2 {
+	overflow: visible;
+	position: absolute;
+	width: 90.949px;
+	height: 62.73px;
+	left: 0px;
+	top: 12.601px;
+	transform: matrix(1,0,0,1,0,0);
+}
